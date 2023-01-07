@@ -1,0 +1,7 @@
+To change a skin with a value use cheat engine, 
+go to string and check utf-16 and search for it then change it you might have to switch rooms for it to take effect
+and you have to copy and paste the value. 
+To get these values Go into the recroom data and open resource.assets with a text editor like notepad++.
+Then use ctrl F to find the values there are 2 different type of skin values you will find only one of them work figure that out yourself.
+
+Credit; No one this is a known CE value change xd :3
