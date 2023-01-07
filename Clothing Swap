@@ -1,0 +1,9 @@
+To swap clothing on your ce go to array of byte and paste the hex of the item use ctrl a to move all of the values and swap all of them at the same time to 
+whatever you want, then go to the shop and chang you skin color or something to reload your outfit. 
+To get these values go into the recroom data and open resource.assests with a Hex Editor or VS dont change anything in this though.
+you can use ctrl f to find the clothing you want. 
+if you find the right one there should be a string of letters that u can see after the values now copy the hex for the string. (I linked a Video)
+
+https://cdn.discordapp.com/attachments/1040712705478230137/1061092353030492310/2023-01-06_18-18-41.mp4
+
+Credit; No one another simple unity value switching.
